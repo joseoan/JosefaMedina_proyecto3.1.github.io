@@ -4,7 +4,7 @@ Proyecto de Creación Multimedia Interactiva de la Facultad de Bellas Artes de l
 ## 1 Datos
 Titulo : Koipika!
 
-Web: (url github.io)
+Web: [(url github.io)](https://github.com/joseoan/JosefaMedina_proyecto3.1.github.io)
 
 Autor: Josefa Medina Riffo
 
@@ -12,9 +12,9 @@ Resumen : En el presente trabajo quise seguir con la misma temática del anterio
 
 Estilo/género: videojuego tipo novela visual.
 
-Logotipo : (insertar imagen y breve justificación, si tiene)
-
-(insertar imágenes a resolucion de 100px alto)
+Logotipo : ![alt text](https://github.com/joseoan/JosefaMedina_proyecto3.1.github.io/blob/78b0f93fc8fb473cc3a608eb6b1f3f992d4089b2/imagenes%20para%20el%20README/fondo.jpg)
+este es el logo de mi protecto, Koipika es un juego de palabras entre “chispa/destello” y
+“amor” en japonés, eligiendo este idioma ya que del respectivo país es de donde se priginó este genero en las novelas visuales y/o videojuegos.
 
 Resolución: 1080 x 1080
 
@@ -45,7 +45,17 @@ Orientado a .. en su mayoría sería al público femenino joven, aunque es para 
 Etapa 2: Desarrollo / actividades realizadas
 
 primero se han realizado los botones, es decir las ilustraciones. también los dibujos del personaje y todo aquello que no fue extraído del internet. una vez realizado se comenzó a hacer el montaje en el hippani con todos los comandos anteriormente aprendidos en calse, las creaciones de escena, los botones que dirigen hacia otroos lugares y permiten ir de un fotograma a otro, etcéteca. Verificndo constantemente con la opción de reproducir para ver que no se presentase ningún problema.
-(PONER LAS FOTOS)
+![alt text](https://github.com/joseoan/JosefaMedina_proyecto3.1.github.io/blob/ec6b2e4c570476f522b40b06143fc1c0b81b2553/imagenes%20para%20el%20README/GATITO.png)
+![alt text](https://github.com/joseoan/JosefaMedina_proyecto3.1.github.io/blob/ec6b2e4c570476f522b40b06143fc1c0b81b2553/imagenes%20para%20el%20README/KENJI%204.png)
+![alt text](https://github.com/joseoan/JosefaMedina_proyecto3.1.github.io/blob/ec6b2e4c570476f522b40b06143fc1c0b81b2553/imagenes%20para%20el%20README/KENJI%205.png)
+![alt text](https://github.com/joseoan/JosefaMedina_proyecto3.1.github.io/blob/ec6b2e4c570476f522b40b06143fc1c0b81b2553/imagenes%20para%20el%20README/KENJI%206.png)
+![alt text](https://github.com/joseoan/JosefaMedina_proyecto3.1.github.io/blob/ec6b2e4c570476f522b40b06143fc1c0b81b2553/imagenes%20para%20el%20README/PESCADO.png)
+![alt text](https://github.com/joseoan/JosefaMedina_proyecto3.1.github.io/blob/ec6b2e4c570476f522b40b06143fc1c0b81b2553/imagenes%20para%20el%20README/bien%20hecho.png)
+![alt text](https://github.com/joseoan/JosefaMedina_proyecto3.1.github.io/blob/ec6b2e4c570476f522b40b06143fc1c0b81b2553/imagenes%20para%20el%20README/corazon%20mouse.png)
+![alt text](https://github.com/joseoan/JosefaMedina_proyecto3.1.github.io/blob/ec6b2e4c570476f522b40b06143fc1c0b81b2553/imagenes%20para%20el%20README/kenji%201.png)
+![alt text](https://github.com/joseoan/JosefaMedina_proyecto3.1.github.io/blob/ec6b2e4c570476f522b40b06143fc1c0b81b2553/imagenes%20para%20el%20README/kenji%202.png)
+![alt text](https://github.com/joseoan/JosefaMedina_proyecto3.1.github.io/blob/ec6b2e4c570476f522b40b06143fc1c0b81b2553/imagenes%20para%20el%20README/kenji%203.png)
+![alt text](https://github.com/joseoan/JosefaMedina_proyecto3.1.github.io/blob/ec6b2e4c570476f522b40b06143fc1c0b81b2553/imagenes%20para%20el%20README/play.png)
 
 Etapa 3: Problemas identificados
 al apretar los botones, el diálogo de texto y el personaje no se quedan estáticos, hay ligeras desviaciones en las poses que no me convencen del todo. Es algo que debo de corregir, ya que todavía desconozco como podría hacer que el personaje (que dentro de hippani serían dos imagenes distintas) puedan tener las mismas proporciones y estar ubicados en el mismo lugar.
