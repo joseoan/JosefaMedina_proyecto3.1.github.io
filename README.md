@@ -34,7 +34,7 @@ El proyecto presentado trataría sobre una pequeña cinta con Kenji, uno de los 
 ![alt text](https://github.com/joseoan/JosefaMedina_proyecto3.1.github.io/blob/c33780605445381163f83d4837f4bcd34cf09188/imagenes%20para%20el%20README/IMG_2806.jpg)
 ![alt text](https://github.com/joseoan/JosefaMedina_proyecto3.1.github.io/blob/c33780605445381163f83d4837f4bcd34cf09188/imagenes%20para%20el%20README/IMG_2807.jpg)
 ![alt text](https://github.com/joseoan/JosefaMedina_proyecto3.1.github.io/blob/bea91fbe5f35d62852d8e636b9c02c3a46f49f60/imagenes%20para%20el%20README/IMG_2807.jpg)
-![alt text](https://github.com/joseoan/JosefaMedina_proyecto3.1.github.io/blob/c33780605445381163f83d4837f4bcd34cf09188/imagenes%20para%20el%20README/IMG_2809.jpg)
+![alt text](https://github.com/joseoan/JosefaMedina_proyecto3.1.github.io/blob/981805b3c68ac8e7f955947148082e52f3d252ae/imagenes%20para%20el%20README/IMG_2808.jpg)
 ![alt text](https://github.com/joseoan/JosefaMedina_proyecto3.1.github.io/blob/c33780605445381163f83d4837f4bcd34cf09188/imagenes%20para%20el%20README/IMG_2810.jpg)
 
 ### 2.2. Esquema de navegación
