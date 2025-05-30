@@ -74,7 +74,7 @@ https://youtu.be/xMJbmdqucfo?feature=shared (anime del que este videojuego está
 https://youtu.be/2ajWUp8F694?feature=shared (video para la colocación de imágenes)
 https://youtu.be/qDPuaxmEMyg?feature=shared (video de muestra de un videojuego tipo novela visual del cual me inspiré de igual forma)
 
-**Hippani Animator 5.1**
+**Hippani Animator 5.1** ![alt text](https://github.com/joseoan/JosefaMedina_proyecto3.1.github.io/blob/a0f126c5e4100d14b2d3237fe8e4c759764b4496/imagenes%20para%20el%20README/images.png)
 https://www.hippani.com/?S=AnimatorHelp&Page=HelpJavascriptTitleVariables
 https://elcodigoascii.com.ar/
 https://www.hippani.com/?Page=HelpTutorial28Title&S=AnimatorHelp
