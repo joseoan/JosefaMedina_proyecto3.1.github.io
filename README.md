@@ -39,7 +39,7 @@ Lo primero que hice fue  hacer los dibujos a tradicional, otros en digital, pasa
 El proyecto presentado trataría sobre una pequeña cinta con Kenji, uno de los personajes presentados en el proyecto anterior. lo primero que teneemos es el menú del juego (novela visual) con el título de "Koipika!" y la opción de play. Al apretarlo tenemos un pequeño diálogo con el personaje Kenji que nos explica que tenemos una cita con él, después tenemos dos pequeños videojuegos con los comandos enseñados en clase, Kenji nos da pequeñas explicaciones para saber lo que hay que hacer, aunque no explica de la mejor forma ya que se busca poder mostrar un poco la personalidad de este personaje, cuando superamos los pequeños juegos tenemos otro diálogo pequeño con Kenji en el que nos dice que la ha pasasdo muy bien y que espera que tengamos mas citas con él. Y como bonus final tenemos la opción de mover el gatito por la pantalla con los teclados WASD. (INCLUIR 4 FOTOS EXPLICATIVAS)
 
 ### 2.2. Esquema de navegación
-![alt text](image-url)
+![alt text](imagenes para el README/explicacion.drawio.png)
 
 ## 3. Metodología
 
